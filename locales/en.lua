@@ -1,0 +1,16 @@
+Locales['en'] = {
+  ['not_enough_money']    = 'Du hast nicht genug Geld',
+  ['truck_belongs']       = 'Das Fahrzeug mit dem Nummernschild ~y~%s~s~ gehört nun ~b~dir~s~',
+  ['generic_shopitem']    = '$%s',
+  ['truck_dealer']        = 'Import | Händler',
+  ['buy_truck_shop']      = 'Willst du wirklich das auto %s for $%s?',
+  ['no']                  = 'Nein',
+  ['yes']                 = 'Ja',
+  ['truck_purchased']     = 'Du hast das Fahrzeug gekauft',
+  ['shop_menu']           = 'Drück ~INPUT_CONTEXT~ um dir die Fahrzeuge anzugucken',
+  ['shop_awaiting_model'] = 'Das ~g~Fahrzeug~s~ wird ausgeparkt!',
+  ['sell_menu']           = 'press ~INPUT_CONTEXT~ to sell your ~y~%s~s~ for ~g~$%s~s~',
+  ['license_missing']     = 'you don\'t have a Commercial\'s License!',
+  ['truck_sold_for']      = 'the ~b~%s~s~ has been ~y~sold~s~ for ~g~$%s~s~',
+  ['not_yours']           = 'this vehicle does not belong to you',
+}
