@@ -1,5 +1,5 @@
 # About esx_import:
-More Vehicleshops for ESX
+Secondary Vehicleshop for ESX
 
 I did NOT create the Code. I only edited the esx_vehicleshop code to create this new shop. This code unlike most other versions out there do NOT interfere with the Original esx_vehicleshop.
 
