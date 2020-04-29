@@ -5,7 +5,7 @@ I did NOT create the Code. I only edited the esx_vehicleshop code to create this
 
 # Requirements:
 * Auto mode (everyone can buy vehicles from the dealer)
-  * No need to download another resource
+  * ESX
   
 * Optional:
   * [esx_drp_garage](https://github.com/lilfuchs/esx_drp_garage)
