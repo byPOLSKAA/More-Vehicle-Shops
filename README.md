@@ -1,5 +1,5 @@
 # About esx_import:
-Secondary Vehicleshop for ESX
+Secondary Vehicleshop for ESX, in the config.lua you can find the coordinates and edit them.
 
 I did NOT create the Code. I only edited the esx_vehicleshop code to create this new shop. This code unlike most other versions out there do NOT interfere with the Original esx_vehicleshop.
 
